@@ -5,7 +5,7 @@ Social links card
 ### Links
 
 - Solution URL: https://github.com/AntonRassanov/Social-links-profile
-- Live Site URL: https://antonrassanov.github.io/qr-code-component/index.html
+- Live Site URL: https://antonrassanov.github.io/social-links-profile/index.html
 
 ## Built with
 
