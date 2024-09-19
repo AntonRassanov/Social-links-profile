@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    transition: all ease .3s;
 }
 
 a {
     color: currentColor;
     text-decoration: none;
+    transition: all ease .3s;
 }
 
 body {
@@ -70,4 +70,15 @@ body {
 .card-link:hover {
     color: var( --grey900 );
     background-color: var( --green );
+}
+
+@media screen and (max-width: 375px) {
+    .card {
+        max-inline-size: 322px;
+        padding: 24px;
+    }
+
+    .card-quote {
+        font-size: 13px;
+    }
 }
